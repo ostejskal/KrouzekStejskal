@@ -14,8 +14,9 @@ int main(int argc, char* argv[]) {
 	return 0;
 }
 
-// Spuštění programu: Ctrl+F5 nebo nabídka Ladit > Spustit bez ladění
-// Ladění programu: F5 nebo nabídka Ladit > Spustit ladění
+
+
+// Lukáš Lojda
 
 // Tipy pro zahájení práce:
 //   1. K přidání nebo správě souborů použijte okno Průzkumník řešení.
